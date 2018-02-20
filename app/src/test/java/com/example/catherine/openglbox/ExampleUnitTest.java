@@ -1,4 +1,4 @@
-package com.example.catherine.opengl2;
+package com.example.catherine.openglbox;
 
 import org.junit.Test;
 

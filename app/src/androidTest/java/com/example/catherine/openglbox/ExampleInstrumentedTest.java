@@ -1,4 +1,4 @@
-package com.example.catherine.opengl2;
+package com.example.catherine.openglbox;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.catherine.opengl2", appContext.getPackageName());
+        assertEquals("com.example.catherine.openglbox", appContext.getPackageName());
     }
 }

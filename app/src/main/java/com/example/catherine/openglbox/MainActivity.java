@@ -1,4 +1,4 @@
-package com.example.catherine.opengl2;
+package com.example.catherine.openglbox;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
